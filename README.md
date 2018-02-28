@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
+To install this app: first install all the dependencies by navigating to the react_svg_chart_dnanexus directory and running npm install
+
+Then, start the server with npm run start and go to localhost:8080
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
