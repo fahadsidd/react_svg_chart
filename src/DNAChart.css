@@ -1,0 +1,17 @@
+.dnachart {
+  padding: 5px;
+}
+.dnachart_path {
+  stroke-width: 3;
+  fill: none;
+}
+
+.dnachart_axis {
+  stroke: #bdc3c7;
+}
+
+.dnachart_point {
+  fill: #fff;
+  stroke-width: 2;
+  
+}
